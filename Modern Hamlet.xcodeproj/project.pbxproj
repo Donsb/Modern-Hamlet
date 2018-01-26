@@ -54,14 +54,22 @@
 		A5F8B808201AB1B8002F35A1 /* Modern Hamlet */ = {
 			isa = PBXGroup;
 			children = (
-				A5F8B809201AB1B8002F35A1 /* AppDelegate.swift */,
 				A5F8B80B201AB1B8002F35A1 /* ViewController.swift */,
 				A5F8B80D201AB1B8002F35A1 /* Main.storyboard */,
-				A5F8B810201AB1B8002F35A1 /* Assets.xcassets */,
-				A5F8B812201AB1B8002F35A1 /* LaunchScreen.storyboard */,
 				A5F8B815201AB1B8002F35A1 /* Info.plist */,
+				A5F8B81B201AB1DB002F35A1 /* Supporting Files */,
 			);
 			path = "Modern Hamlet";
+			sourceTree = "<group>";
+		};
+		A5F8B81B201AB1DB002F35A1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A5F8B812201AB1B8002F35A1 /* LaunchScreen.storyboard */,
+				A5F8B810201AB1B8002F35A1 /* Assets.xcassets */,
+				A5F8B809201AB1B8002F35A1 /* AppDelegate.swift */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
