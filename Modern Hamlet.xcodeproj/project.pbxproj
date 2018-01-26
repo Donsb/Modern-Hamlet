@@ -54,6 +54,10 @@
 		A5F8B808201AB1B8002F35A1 /* Modern Hamlet */ = {
 			isa = PBXGroup;
 			children = (
+				A5F8B81C201AB4E1002F35A1 /* The Play */,
+				A5F8B81D201AB4EB002F35A1 /* Views */,
+				A5F8B81E201AB4F9002F35A1 /* Model */,
+				A5F8B81F201AB519002F35A1 /* Controllers */,
 				A5F8B80B201AB1B8002F35A1 /* ViewController.swift */,
 				A5F8B80D201AB1B8002F35A1 /* Main.storyboard */,
 				A5F8B815201AB1B8002F35A1 /* Info.plist */,
@@ -70,6 +74,34 @@
 				A5F8B809201AB1B8002F35A1 /* AppDelegate.swift */,
 			);
 			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A5F8B81C201AB4E1002F35A1 /* The Play */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "The Play";
+			sourceTree = "<group>";
+		};
+		A5F8B81D201AB4EB002F35A1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		A5F8B81E201AB4F9002F35A1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A5F8B81F201AB519002F35A1 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
